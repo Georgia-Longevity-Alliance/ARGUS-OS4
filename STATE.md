@@ -7,10 +7,13 @@
 - OET cell module: substrate (ITO/a-Si:H on 170 µm coverslip), projector, signal generator, microfluidics, BOM.
 - Grant-ready technical description: `docs/INVERTED_ARGUS_DESIGN.md`.
 
+## Done (2026-10-13)
+- ✅ Repo pushed: **GLA/ARGUS-OS4** (public, default `main`, 18 files) — https://github.com/Georgia-Longevity-Alliance/ARGUS-OS4
+- ✅ Mirror pushed: **djabbat/ARGUS-OS4** (private)
+
 ## Next
 1. Prototype OET substrate + bench test (Phase 0) — Owner: PI
 2. Inverted OpenFlexure frame build (Phase 1) — Owner: Alex
-3. Push to GitHub: GLA `ARGUS-OS4` (public) + djabbat mirror
 
 ## Blockers
 - a-Si:H foundry/clean-room access.
