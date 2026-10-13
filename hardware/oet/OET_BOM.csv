@@ -1,0 +1,15 @@
+# OET Cell BOM — ARGUS-OS4
+
+part,specification,supplier,qty,unit_price_usd,total_usd,notes
+Coverslip substrate,No.1.5 coverslip 170 µm 24×50 mm (ITO-coated on one side),vendor (e.g. Diamond/Thorlabs ITO coverslip),10,12,120,Thin optical window; ITO = bottom electrode
+a-Si:H deposition,PECVD hydrogenated amorphous silicon ~1 µm on ITO coverslip,foundry (e.g. IR labs / custom),1,800,800,Photoconductor layer; alternative TiOPc spin-coat (cheaper, lower performance)
+Top ITO glass,ITO-coated glass 1.1 mm 25×75 mm,ITO glass vendor,10,15,150,Bias return electrode + mechanical top
+Spacer,SU-8 3050 or double-sided tape ~100 µm,Microchem / distributor,1,40,40,Defines OET channel height
+Channel medium,Buffered saline / cell medium (isotonic),lab,1,50,50,Low-conductivity buffer preferred (DEP)
+Contact pads,Silver epoxy / conductive tape,distributor,1,30,30,Top ↔ bottom electrode contacts
+DMD projector,Mightex Polygon1000 or consumer DLP projector (530-650 nm),Mightex / consumer vendor,1,18000,18000,Pattern projector; consumer DLP option ~$300
+Function generator,DDS (AD9834) + amplifier or benchtop (e.g. Keysight 33500B),distributor,1,1500,1500,AC bias 10-20 Vpp @ 10-100 kHz
+Microfluidic pump,Syringe pump ×2 (NE-1000 class) + tubing + fittings,distributor,1,1200,1200,Sample delivery + medium exchange
+Tubing/fittings,PTFE/PEEK 0.5 mm ID,distributor,1,150,150,Connections to channel ports
+Objective (optional upgrade),WI 60×/1.2 or oil 100×/1.35,objective vendor,1,12000,12000,High NA imaging through coverslip (existing OS2 objective reusable)
+TOTAL,,,,,34040,"OET cell core ~$3K; full OS4 imaging ~$34K (objective included)"
