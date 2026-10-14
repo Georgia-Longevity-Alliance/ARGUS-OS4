@@ -24,7 +24,7 @@
 
 | PMID | Finding | Role in OS4 |
 |:----:|---------|-------------|
-| 6684600 | Sulston et al. 1983 — C. elegans invariant lineage | Sister-pair design |
+| 6684600 | Sulston et al. 1983 — invariant lineage | Sister-pair design |
 | 37256957 | Kalbfuss & Gönczy 2023 — 88% centriole elimination | H₀ baseline |
 | 37414202 | Kalbfuss, Berger & Gönczy 2023 — cell fate determines centriole fate | Null model |
 | 39764850 | Barandun et al. 2025 — mother centrosome inheritance → CD8+ T-cell fate (mammals) | OS2 principle |

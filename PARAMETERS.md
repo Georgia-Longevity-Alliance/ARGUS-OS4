@@ -16,7 +16,7 @@
 | Projector | DMD (Mightex Polygon1000) or consumer DLP, 530–650 nm |
 | Manipulation | trap / transport / rotate / deliver / kiss |
 | Microfluidics | 2× syringe pumps, PTFE/PEEK tubing |
-| Sample | C. elegans embryos, mammalian cells, organoids |
+| Sample | Developing embryos (from zygote), mammalian cells, organoids |
 
 ## Inherited (from OS1/OS2/OS3)
 

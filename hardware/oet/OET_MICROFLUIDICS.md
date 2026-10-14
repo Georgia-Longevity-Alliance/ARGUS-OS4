@@ -6,7 +6,7 @@
 
 | Need | Specification |
 |---|---|
-| Load cells/embryos into OET channel | gentle, no shear damage (C. elegans embryos ~30–50 µm, cells 5–30 µm) |
+| Load cells/embryos into OET channel | gentle, no shear damage (embryos ~30–50 µm, cells 5–30 µm) |
 | Medium exchange | laminar flow, low shear |
 | In-situ imaging | transparent channel, compatible with 170 µm coverslip |
 | Collect manipulated cell | removable / dedicated outlet well |

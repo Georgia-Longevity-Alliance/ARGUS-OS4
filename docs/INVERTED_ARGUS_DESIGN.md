@@ -91,7 +91,7 @@ OET/optical manipulation must remain robust when the trap or target leaves the m
 | Projector | 530–650 nm, DMD; consumer DLP acceptable |
 | Manipulation | trap / transport / rotate / deliver / "kiss" (cell–cell) |
 | Parallel traps | up to 15,000 (Chiou 2005) |
-| Sample | C. elegans embryos, mammalian cells, organoids |
+| Sample | Developing embryos (from zygote), mammalian cells, organoids |
 | AI | Jetson AGX Orin 64GB (segmentation, tracking, lineage) |
 | Openness | Apache 2.0 / MIT / CERN-OHL; GitHub `Georgia-Longevity-Alliance/ARGUS-OS4` |
 
