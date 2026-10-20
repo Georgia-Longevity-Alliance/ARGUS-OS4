@@ -81,6 +81,7 @@ OET/optical manipulation must remain robust when the trap or target leaves the m
 | Imaging/AI | WI/oil objective + sCMOS + Jetson edge-AI (from OS1/OS2) |
 | Control | closed-loop OET steering + limited-FOV controller (Li/Cheah) |
 | AIS layer | passport, body law (phototoxicity/AC limits), flight recorder (from OS1) |
+| **Laser ablation port (optional add-on)** | through-objective laser (fs 800 nm or IR) on the inverted path — validated pattern: Kaneshiro et al. 2022 (DOI 10.1017/qpb.2022.24) ran a fully automated IR-laser disruption loop through a 20×/0.75 objective of an inverted Ti2-E; enables OS4 "OET positions cells → laser ablates/disrupts non-target or specific organelle". See index `../docs/NIKON_AUTOMATED_LASER_SORTING_ANALYSIS_2026-10-20.md` |
 
 ### 3.2 Key specifications
 | Parameter | Value |

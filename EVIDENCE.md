@@ -19,6 +19,7 @@
 | Mightex Bio application note (Polygon1000) | DMD-based pattern illuminator; 350–1000 nm; integrates into infinity path of upright **and inverted** microscopes; used for OET cell & micro-robot manipulation | Projector integration (both geometries); OET with APRE-19/MCF-7 cells and 200 µm micro-robot |
 | Li X, Cheah CC, Yan X, Sun D. (A*STAR / CityU) | Robotic cell manipulation with optical tweezers & **limited FOV**: vision-based control (in FOV) + Cartesian-space feedback (out of FOV); Lyapunov-stable | Closed-loop control robustness for OS4 steering |
 | Zhang et al. 2019 *PNAS* (same as above) | 200+ µm micro-robots manipulated by OET — larger than OT-capable objects | Size range: OS4 handles embryos/cells |
+| Kaneshiro et al. 2022 (DOI **10.1017/qpb.2022.24**) | Fully automated IR-laser cell disruption on an **inverted** microscope (Nikon Ti2-E), laser delivered **through a 20×/0.75 objective** (epi-illumination path); detect→classify→mask→irradiate→verify loop | ⭐ Independent validation of OS4's **inverted geometry + through-objective laser port**; confirms an automated laser-ablation port is a natural OS4 add-on (OET positions cells → laser ablates/disrupts) |
 
 ## Core centriole biology (inherited from OS1/OS2/OS3)
 
@@ -48,6 +49,7 @@
 | Optoelectronic micro-robots do load–transport–deliver, clonal expansion | ✅ Confirmed (Zhang 2019 PNAS) |
 | Soft two-photon micro-robots grip/rotate/kiss cells | ✅ Confirmed (Iványi & Kelemen 2024) |
 | Inverted + 170 µm coverslip enables NA 1.2–1.35 | ✅ Engineering standard (inverted microscopes) — verify WD budget empirically for OS4 |
+| Through-objective laser ablation on inverted geometry | ✅ Confirmed (Kaneshiro 2022, DOI 10.1017/qpb.2022.24 — IR laser through 20×/0.75 on inverted Ti2-E) |
 | 100×/1.35 oil reaches cells in 100 µm channel on coverslip | ⚠ Predicted (WD marginal) — test needed |
 | OET + AI steering loop works autonomously | ⚠ Predicted — to prototype |
 
